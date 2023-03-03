@@ -1,0 +1,6 @@
+# Osmose 4.3.0 - Deprecated parameter grid.java.classname;
+# moving parameters to switch to netcdf files;
+grid.netcdf.file;map0D.nc
+grid.var.lat;latitude
+grid.var.lon;longitude
+grid.var.mask;map 
