@@ -1,0 +1,6 @@
+*.nc filter=lfs diff=lfs merge=lfs -text
+corrected_mask.nc filter=lfs diff=lfs merge=lfs -text
+eco3m_med_0D.nc filter=lfs diff=lfs merge=lfs -text
+map0D.nc filter=lfs diff=lfs merge=lfs -text
+predation-interactionrenewed.nc filter=lfs diff=lfs merge=lfs -text
+corrected_eco3m_med.nc filter=lfs diff=lfs merge=lfs -text
