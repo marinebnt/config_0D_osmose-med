@@ -1,0 +1,10 @@
+.Rproj.user
+**/*.log
+**/*pdf
+jar
+**/*.jar
+output
+**/.ipynb_checkpoints
+**/*.ipynb
+**/*backup*
+.Rhistory
