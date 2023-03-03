@@ -22,7 +22,10 @@ Process :
    That way, the interaction parameter will be included in the model, without having to change the whole equation expressions. 
    The accessibility matrix is prey-size-dependant. 
    Thus, to adjust to the the size-dependency, we have had to adjust the size of the interaction matrix to the size of the accessibilty matrix by duplicating columns of the interaction matrix.  
-3- Ultimately, we need to explain to osmose that the spatial dimension has been removed. 
+3- This time-dependant matrix needs to be stored into the configuration. 
+   It is stored into 24 .csv files into the /interaction repository of the  0D configuration. 
+   There is one file per time step. 
+4- Ultimately, we need to explain to osmose that the spatial dimension has been removed. 
    To do so, we are changing its grid call, and replacing the former grid-map by a one cell-grid map.
    This part is done in the file : => eco3m-med_and_map_with0d.R <=
 
