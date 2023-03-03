@@ -1,0 +1,8 @@
+-> Enlever l'appel aux NetCDF pour la distribution de biomasse des LTL -> ltl.netcdf.file et species.file.sp101:106
+
+-> document appelé pour param_predation\accessibilité est changé : sous forme temporelle donc on a 24 fichiers en fonction du step : 24 steps
+
+-> grid mis à une cellule par map
+
+-> osm_param-movement.csv: convertir tous les appels à "maps" en 1 
+
