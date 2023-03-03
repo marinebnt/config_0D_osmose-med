@@ -31,7 +31,7 @@ Process :
     These organisms groups differe in the way they integrate the spatial dimension. 
 
 a- for fish : 
-   Their spatial dimention is only considered as a spatial presence absence accordind to the cell we are focusing on. 
+   Their spatial dimension is only considered as a spatial presence absence accordind to the cell we are focusing on. 
    Their biomass is built over the course of time. 
    Therefore, the only non-spatialised dimension we have to create for the fish organisms is their now-matrix of accessibility-interaction.
    That is to say, we are converting the distribution map of the fish into an interaction parameter as explained earlier.
