@@ -1,3 +1,4 @@
+osmose.configuration.setup_mov;osm_param-movement2.csv;;;;;;;;;;;;;;;;;;;;;;;
 movement.distribution.method.sp0;maps;;;;;;;;;;;;;;;;;;;;;;;
 movement.distribution.method.sp1;maps;;;;;;;;;;;;;;;;;;;;;;;
 movement.distribution.method.sp10;maps;;;;;;;;;;;;;;;;;;;;;;;
